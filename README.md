@@ -26,3 +26,5 @@ The apps that have been cloned will remain active even if the module is disabled
 The module can also be installed on a OnePlus with Android 8/8.1 (Oreo) but the correct operation is not guaranteed, If you try it on this version and it works properly let me know! Or if there are problems and you want to help me solve them contact me privately on [Twitter](https://twitter.com/alex193a) or [Telegram](https://t.me/alex193a).
 
 Also let me know if the module works on another OnePlus model besides the ones mentioned above :-)
+
+ℹ️ If you are looking for a module compatible with the Oxygen 12 and 13 download the [OnePlus App Cloner Extender](https://github.com/Xposed-Modules-Repo/com.alex193a.paextender) module.
